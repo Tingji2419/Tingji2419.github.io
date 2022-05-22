@@ -28,7 +28,7 @@ There is no paper output for the moment.
 
 ### Hobby
 
-*[Hayao Miyazaki](www.baidu.com)* Animation.
+[Hayao Miyazaki](https://movie.douban.com/celebrity/1054439/) Animation.
 
 Science fiction.
 
@@ -36,4 +36,4 @@ Science fiction.
 
 ### Contact
 
-Email: tj_huang@qq.com; 181870078@samil.nju.edu.cn; Tingji2419@gamil.com
+Email: tj_huang@qq.com; 181870078@samil.nju.edu.cn
